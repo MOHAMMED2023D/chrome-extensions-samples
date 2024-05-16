@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Random Bible Verse",
+  "description": "Displays a random Bible verse when clicked.",
+  "version": "1.0",
+  "permissions": [],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon-16.png",
+    "48": "icon-48.png",
+    "128": "icon-128.png"
+  }
+}
